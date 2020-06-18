@@ -8,6 +8,7 @@ public class TestBuild {
 	public void doLogin(){
 		
 		System.out.println("Execute Login Test"); 
-		
+		System.out.println("Execute Login Test1"); 
+		System.out.println("Execute Login Test2"); 
 	}
 }
